@@ -29,7 +29,7 @@
 ***
 # Education:
 
-## Belarusian State University of Informatics and Radioelectronics
+**Belarusian State University of Informatics and Radioelectronics**
 ***
 
 # Languages:
