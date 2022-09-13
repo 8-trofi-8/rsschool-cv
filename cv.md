@@ -6,6 +6,7 @@
 * E-mail: 8trofim@gmail.com
 * Phone: +375295197739
 ***
+
 **About myself:**
 
 > I want to become a Front-End Development, so I started studying at RS School. I have my own ideas that I want to implement in JavaScript.
